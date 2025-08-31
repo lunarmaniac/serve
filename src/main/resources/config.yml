@@ -1,0 +1,11 @@
+# Serve plugin configuration
+# --------------------------
+# Path to your resource pack file. Can be in:
+# - Server root: "resourcepack.zip"
+# - Plugins folder: "plugins/ModelEngine/resource pack.zip"
+# - Any other folder: provide the full relative or absolute path
+file: "plugins/ModelEngine/resource pack.zip"
+
+# Port for the internal web server
+# Make sure this port is open and not blocked by firewall
+port: 8081
