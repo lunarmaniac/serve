@@ -3,5 +3,13 @@ version: '1.0.0'
 main: com.github.dorocha.serve.Serve
 api-version: '1.21'
 load: STARTUP
-authors: [ dorocha, Asterix Corp ]
-description: Quickly serve a texturepack over HTTP
+authors: [Dorocha]
+description: A plugin to host your resource pack over HTTP for easy setup in server.properties
+website: https://www.spigotmc.org/resources/serve.XXXXX/
+
+commands:
+  serve:
+    description: Serve plugin command
+    usage: /<command> reload
+    permission: serve.reload
+    permission-message: You do not have permission to use this command!
