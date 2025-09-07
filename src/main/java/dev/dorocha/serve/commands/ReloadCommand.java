@@ -1,6 +1,6 @@
-package com.github.dorocha.serve.commands;
+package dev.dorocha.serve.commands;
 
-import com.github.dorocha.serve.Serve;
+import dev.dorocha.serve.Serve;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

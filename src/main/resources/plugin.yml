@@ -1,6 +1,6 @@
 name: Serve
 version: '1.0.0'
-main: com.github.dorocha.serve.Serve
+main: dev.dorocha.serve.Serve
 api-version: '1.21'
 load: STARTUP
 authors: [Dorocha]

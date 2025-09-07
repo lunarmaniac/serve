@@ -1,6 +1,6 @@
-package com.github.dorocha.serve;
+package dev.dorocha.serve;
 
-import com.github.dorocha.serve.commands.ReloadCommand;
+import dev.dorocha.serve.commands.ReloadCommand;
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpExchange;
